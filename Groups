@@ -1,1 +1,13 @@
+👨‍👩‍👧‍👦 Security Groups
+Two department-based security groups were created:
+HR Group
+   │
+   └── HR User
 
+IT Group
+   │
+   └── IT User
+The groups use Assigned membership.
+Why use groups?
+Groups provide a centralized way to organize users and will later allow access to be managed collectively rather than assigning permissions individually to every user.
+This will become particularly useful in the future RBAC project.
