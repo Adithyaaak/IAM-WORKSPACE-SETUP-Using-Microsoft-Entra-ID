@@ -3,8 +3,10 @@ This project demonstrates the initial setup of an Identity and Access Management
 
 
 🛠️ Technologies & Skills
+
 Cloud
 •	Microsoft Azure 
+
 Identity
 •	Microsoft Entra ID 
 •	Identity & Access Management (IAM) 
@@ -12,14 +14,19 @@ Identity
 •	Group Management 
 •	Administrative Units 
 •	Audit Logs 
+
+
 Other
 •	DNS Fundamentals 
 •	Domain Verification 
 •	Technical Documentation 
 •	GitHub
+
+
 📌 Project Status
+
 Status: ✅ Completed
-Completed
+
 •	Microsoft Entra ID workspace setup 
 •	Organization/tenant configuration 
 •	HR security group 
