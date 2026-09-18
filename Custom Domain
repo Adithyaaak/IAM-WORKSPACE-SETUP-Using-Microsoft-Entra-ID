@@ -1,0 +1,11 @@
+🌐 Custom Domain
+I also explored configuring a custom domain for the Microsoft Entra ID tenant.
+The default tenant domain was available, but the custom-domain configuration was not successfully completed.
+For this lab, the default Microsoft-provided onmicrosoft.com domain is sufficient because a custom domain is not required for the IAM exercises.
+DNS Concepts Explored
+During the domain configuration process, I learned about:
+•	TXT records — used for domain verification. 
+•	MX records — used to identify mail servers. 
+•	Host/Alias — identifies the DNS name where the record applies. 
+•	Destination/Value — contains the record value. 
+•	TTL (Time To Live) — controls how long DNS information can be cached.
