@@ -1,0 +1,7 @@
+Audit logs:
+
+Microsoft Entra ID Audit Logs were reviewed to verify that identity management operations were successfully recorded. The audit logs captured activities including: 
+- Add user 
+- Update PasswordProfile 
+- Add member to group 
+The recorded activities showed a successful status. This demonstrates the use of Microsoft Entra audit logging to track identity-related administrative operations.
