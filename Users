@@ -1,0 +1,8 @@
+👥 User Management
+Two test users were created in the Adithya Tech Demo Microsoft Entra ID tenant.
+The users were created as internal organizational users using the tenant's default Microsoft-provided domain.
+User Structure
+User	Department	Group
+HR Test User	HR	HR Group
+IT Test User	IT	IT Group
+The purpose of using test users is to simulate a small organization's identity environment without using real employee accounts.
