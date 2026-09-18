@@ -1,1 +1,41 @@
+The objective was to create a small enterprise-style identity environment for a fictional organization named Adithya Tech Demo and 
+establish the foundation for future IAM activities such as user lifecycle management, RBAC, access reviews, and privileged access management.
 
+## 🏢 Organization
+
+Organization: Adithya Tech Demo  
+Identity Platform: Microsoft Entra ID  
+Cloud Platform: Microsoft Azure
+
+The lab environment was designed to represent a simplified enterprise organization with separate departments and delegated administrative scope.
+
+
+## 🎯 Objectives
+
+The main objectives of this project were:
+
+- Set up an IAM workspace using Microsoft Entra ID.
+- Configure the organization's tenant.
+- Create department-based security groups.
+- Create test user accounts.
+- Assign users to appropriate groups.
+- Create an Administrative Unit for the IT HelpDesk.
+- Explore custom domain configuration.
+- Document the IAM environment for future projects.
+# 🏗️ IAM Architecture
+
+                    Adithya Tech Demo
+                           │
+                           ▼
+                  Microsoft Entra ID
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+             ▼             ▼             ▼
+           Users         Groups    Administrative
+                                      Units
+             │             │             │
+       ┌─────┴─────┐    ┌──┴──┐         │
+       │           │    │     │         ▼
+       ▼           ▼    ▼     ▼    IT HelpDesk
+    HR User     IT User HR    IT
